@@ -13,7 +13,7 @@ assignees: NewCenturyDev
 ### 문제 번호
 1000
 ### 문제 URL
-[alias](url)
+[문제 보기](https://www.acmicpc.net/problem/1000)
 ### 문제 유형 (구현, 수학, 트리, 그래프, DFS/BFS, 이진탐색, DP 등)
 유형명칭
 
