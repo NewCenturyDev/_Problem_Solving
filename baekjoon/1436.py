@@ -26,12 +26,5 @@ def handle_10_1(i, j):
         output.append(int("{}{:02d}666".format(i, j)))
 
 
-def get_666(ten_digits):
-    bound = "6"
-    for _ in range(ten_digits):
-        bound += "6"
-    return int(bound)
-
-
 main()
 print(output[N - 1])
